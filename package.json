@@ -1,0 +1,33 @@
+{
+  "name": "email-dev",
+  "version": "1.0.0",
+  "description": "Gulp based framework for html emails developement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-nk/email-dev.git"
+  },
+  "author": "Anton Kukushkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anton-nk/email-dev/issues"
+  },
+  "homepage": "https://github.com/anton-nk/email-dev#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.1",
+    "del": "^3.0.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-inline-css": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-style-inject": "^0.1.1",
+    "imagemin-pngquant": "^5.1.0"
+  },
+  "dependencies": {},
+  "optionalDependencies": {}
+}
